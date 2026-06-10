@@ -17,10 +17,10 @@ export default function AchievementsSection() {
                 Achievements
               </div>
               <h2 className="text-4xl font-bold tracking-tighter sm:text-5xl">
-                Academic & Professional
+                Achievements & Recognition
               </h2>
               <p className="text-muted-foreground text-lg md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed max-w-[600px] mx-auto">
-                Certifications, hackathons, and awards I&apos;ve earned.
+                Recognitions, certifications, awards, and leadership experiences that reflect my growth and impact.
               </p>
             </div>
           </div>

@@ -9,6 +9,7 @@ import {
   LayoutGrid,
   Package,
   Terminal,
+  BookOpen,
 } from "lucide-react";
 
 export type IconProps = React.HTMLAttributes<SVGElement>;
@@ -23,4 +24,5 @@ export const Icons = {
   code: Code,
   projects: LayoutGrid,
   package: Package,
+  blog: BookOpen,
 };

@@ -17,10 +17,10 @@ export default function PackagesSection() {
                 Packages
               </div>
               <h2 className="text-4xl font-bold tracking-tighter sm:text-6xl">
-                NPM Packages
+                PyPI Packages
               </h2>
               <p className="text-muted-foreground text-lg md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed max-w-[600px] mx-auto">
-                I build and maintain reusable packages to help other developers build better software faster.
+I build and maintain open-source packages that help developers add powerful functionality to their applications with minimal effort.
               </p>
             </div>
           </div>

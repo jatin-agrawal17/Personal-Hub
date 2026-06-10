@@ -2,37 +2,36 @@ import { Icons } from "@/components/icons";
 
 export const packages = [
   {
-    title: "TempMail Guard",
-    href: "https://github.com/Bharat346/tempmail-guard",
+    title: "Django Audit Logger",
+    href: "https://github.com/your-username/django-audit-logger",
     dates: "2026",
     active: true,
     description:
-      "A robust Node.js package for identifying disposable email addresses. Uses domain intelligence, DNS signals, and reputation scoring to prevent low-trust signups.",
+      "A robust Django package for tracking create, update, and delete operations across models. Provides audit trails, filters, timestamps, and export functionality for compliance and monitoring.",
     technologies: [
-      "Node.js",
-      "DNS",
-      "SMTP",
-      "API Design",
-      "Email Validation",
-      "SPF/DMARC Validation",
-      "WHOIS",
+      "Django",
+      "Python",
+      "Audit Logging",
+      "Signals",
+      "Admin Panel",
+      "CSV Export",
     ],
     links: [
       {
         type: "Source",
-        href: "https://github.com/Bharat346/tempmail-guard",
+        href: "https://github.com/jatin-agrawal17/django-audit-logger",
         icon: <Icons.github className="size-3" />,
       },
       {
-        type: "NPM",
-        href: "https://www.npmjs.com/package/tempmail-guard",
+        type: "PyPI",
+        href: "https://pypi.org/project/audit-logger-jatin/",
         icon: <Icons.globe className="size-3" />,
       },
     ],
     stats: [
-      { label: "Version", value: "1.1.0" },
-      { label: "Issues", value: "1" },
-      { label: "Downloads", value: "100+" },
+      { label: "Version", value: "0.1.1" },
+      // { label: "Issues", value: "0" },
+      // { label: "Downloads", value: "100+" },
     ],
     image: "",
     video: "",

@@ -11,8 +11,7 @@ export default function FooterSection() {
           <div className="space-y-4">
             <h3 className="text-xl font-bold tracking-tight">{DATA.name}</h3>
             <p className="text-muted-foreground text-base leading-relaxed max-w-sm">
-              A software engineer dedicated to building high-performance,
-              accessible, and user-centric web applications.
+Passionate about Software Engineering, Machine Learning, and AI, with a focus on developing innovative solutions that solve real-world problems.
             </p>
           </div>
 
