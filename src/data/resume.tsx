@@ -19,7 +19,7 @@ import { packages } from "./data.packages";
 export const DATA = {
   name: "Jatin Agrawal",
   initials: "JA",
-  url: "https://portfolio.bhdocs.in",
+  url: "http://localhost:3000",
   location: "Jaipur, India",
   locationLink: "https://www.google.com/maps/place/jaipur",
 description:
