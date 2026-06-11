@@ -27,9 +27,7 @@ export default function ProjectsSection() {
                 Check out my latest work
               </h2>
               <p className="text-muted-foreground text-lg md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed max-w-[600px] mx-auto">
-                I&apos;ve worked on a variety of projects, from simple
-                websites to complex web applications. Here are a few of my
-                favorites.
+                These projects highlight my work across AI/ML, data analytics, MLOps, and web development, with a focus on building practical solutions.
               </p>
             </div>
           </div>

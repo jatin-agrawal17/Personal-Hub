@@ -35,13 +35,13 @@ summary:
     { href: "/#research", icon: FileText, label: "Research" },
     { href: "/#projects", icon: LayoutGrid, label: "Projects" },
     { href: "/#packages", icon: Icons.package, label: "Packages" },
-    { href: "/#github-stats", icon: Icons.blog, label: "Blog" },
     { href: "/#stats", icon: Icons.leetcode, label: "LeetCode Stats" },
     {
   href: "#teaching-assistantships",
   icon: Icons.globe,
   label: "Teaching",
 },
+    { href: "/#github-stats", icon: Icons.blog, label: "Blog" },
     { href: "/#achievements", icon: Medal, label: "Achievements" },
   ],
   contact: {
