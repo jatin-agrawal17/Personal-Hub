@@ -12,6 +12,7 @@ import { cn } from "@/lib/utils";
 import Image from "next/image";
 import Link from "next/link";
 import Markdown from "react-markdown";
+import { useState } from "react";
 
 interface Props {
   title: string;
@@ -46,6 +47,8 @@ export function ProjectCard({
   badgeText = "Project",
   className,
 }: Props) {
+  // new thing 
+  const [expanded, setExpanded] = useState(false); 
   return (
     <Card
       className={cn(

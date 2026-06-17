@@ -3,6 +3,58 @@ import { FileText } from "lucide-react";
 
 export const projects = [
   {
+    title: "Multi-User Blogging Platform",
+    href: "",
+    dates: "Jun 2026",
+    active: true,
+    description:
+      "A full-stack blogging platform built with Django that enables role-based content management, rich-text publishing, secure user administration, and media-rich blog creation through a structured permission system.",
+  
+    features: [
+      "Role-based access control with User, Editor, and Manager permissions",
+      "Secure authentication and authorization using Django Auth",
+      "Complete blog CRUD operations with ownership-based access restrictions",
+      "Rich text blog editor powered by CKEditor 5",
+      "Image upload and media management for blog content",
+      "Category management with SEO-friendly slug-based URLs",
+      "Profile dashboard for managing personal blogs and account information",
+      "User administration panel with permission-controlled actions",
+      "Automatic profile creation and management",
+      "Responsive blog listing and detailed article pages",
+      "Server-side validation and secure access protection",
+      "Role-specific dashboards for content and user management"
+    ],
+  
+    technologies: [
+      "Python",
+      "Django",
+      "SQLite",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "CKEditor 5",
+      "Django Authentication",
+      "Role-Based Access Control (RBAC)",
+      "Media Management",
+      "CRUD Operations"
+    ],
+  
+    links: [
+      {
+        type: "Live Demo",
+        href: "https://jatin17.pythonanywhere.com/",
+        icon: <Icons.globe className="size-3" />,
+      },
+      {
+        type: "Github",
+        href: "https://github.com/jatin-agrawal17/blog-website",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+  
+    image: "/projects/blog.png",
+  },
+  {
   title: "YouTube Comment Sentiment Analysis",
   href: "https://github.com/jatin-agrawal17/youtube-comment-sentiment-analysis",
   dates: "Dec 2025",
@@ -102,6 +154,10 @@ export const projects = [
   image: "/projects/hackathon.png",
   video: "",
 },
+
+
+
+
 ]
 
 //   {
