@@ -7,7 +7,7 @@ export const education = [
     start: "2023",
     end: "2027",
     description:
-      "CGPA: 8.95. Developed a strong interest in Data Science, Machine Learning, and Artificial Intelligence through academic coursework and hands-on projects. Gained experience in data preprocessing, exploratory data analysis, feature engineering, model development, and model evaluation. Alongside data science, built a solid foundation in Data Structures & Algorithms, Database Management Systems (DBMS), Operating Systems, SQL, Deep Learning, Natural Language Processing, and Computer Vision while working on practical projects and continuously expanding technical expertise.",
+      "CGPA: 8.86. Developed a strong interest in Data Science, Machine Learning, and Artificial Intelligence through academic coursework and hands-on projects. Gained experience in data preprocessing, exploratory data analysis, feature engineering, model development, and model evaluation. Alongside data science, built a solid foundation in Data Structures & Algorithms, Database Management Systems (DBMS), Operating Systems, SQL, Deep Learning, Natural Language Processing, and Computer Vision while working on practical projects and continuously expanding technical expertise.",
   },
   {
     school: "Adarsh Vidya Mandir",
