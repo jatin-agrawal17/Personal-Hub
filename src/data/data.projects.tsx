@@ -156,6 +156,51 @@ export const projects = [
 },
 
 
+{
+  title: "Subscription Guardian",
+  href: "https://github.com/jatin-agrawal17/subscription-tracker",
+  dates: "Jun 2026",
+  active: true,
+  description:
+    "A full-stack subscription management platform delivered through a Chrome Extension and Django REST Framework backend, enabling users to track recurring expenses, manage free trials, monitor renewals, and analyze subscription spending from a centralized dashboard.",
+  features: [
+    "Secure user registration and login with JWT authentication",
+    "Complete subscription CRUD operations with user-specific data isolation",
+    "Monthly and yearly spending analytics dashboard",
+    "Upcoming renewal tracking for recurring subscriptions",
+    "Free trial monitoring and expiring trial detection",
+    "Category-based filtering, search, and subscription sorting",
+    "Automatic service detection from active browser tabs",
+    "Pre-filled subscription forms for Netflix, Spotify, Canva, and ChatGPT",
+    "Chrome Extension interface for quick subscription management",
+    "Production deployment on Render with PostgreSQL database"
+  ],
+  technologies: [
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "JWT Authentication",
+    "PostgreSQL",
+    "SQLite",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Chrome Extension API",
+    "Render",
+    "Gunicorn",
+    "WhiteNoise"
+  ],
+  links: [
+    {
+      type: "Github",
+      href: "https://github.com/jatin-agrawal17/subscription-tracker",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "/projects/subscription-guardian.png",
+  video: "",
+},
+
 
 
 ]
