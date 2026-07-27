@@ -201,8 +201,6 @@ export const projects = [
   video: "",
 },
 
-
-
 ]
 
 //   {

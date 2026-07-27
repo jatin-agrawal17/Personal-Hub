@@ -29,7 +29,7 @@ export const packages = [
       },
     ],
     stats: [
-      { label: "Version", value: "0.1.1" },
+      { label: "Version", value: "0.1.3" },
       // { label: "Issues", value: "0" },
       // { label: "Downloads", value: "100+" },
     ],
